@@ -4,3 +4,7 @@
 # INS3064 - Homework 05
 - **SQL Queries**: [`university_queries.sql`](university_queries.sql)
 - **Demo Video**: [Xem video demo trên YouTube](https://www.youtube.com/watch?v=n0-LjZMq82M)
+# INS3064 - Homework 06
+- **ERD**: [`bookstore_erd.md`](bookstore_erd.md)
+- **Database Code**: [`bookstore_db.sql`](bookstore_db.sql)
+- **Demo Video**: [Xem video demo trên YouTube](https://www.youtube.com/watch?v=RF5PBvLm4oE)
